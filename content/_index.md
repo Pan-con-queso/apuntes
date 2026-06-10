@@ -6,6 +6,8 @@ draft: false
 images: []
 ---
 
+holi
+
 # Calendario 2026/1
 
 | Semana 	| Auxiliar (lunes) 	| CTF (jueves) 	| Unidad 	    |
