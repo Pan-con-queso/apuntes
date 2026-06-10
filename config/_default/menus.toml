@@ -2,88 +2,88 @@
   name = "Prólogo"
   weight = 10
   identifier = "prologo"
-  url = "/apuntes/docs/prologo/"
+  url = "/docs/prologo/"
 
 [[docs]]
   name = "Esteganografía"
   weight = 20
   identifier = "stego"
-  url = "/apuntes/docs/stego/"
+  url = "/docs/stego/"
 
 [[docs]]
   name = "Criptografía Moderna"
   weight = 30
   identifier = "cripto-moderna"
-  url = "/apuntes/docs/cripto-moderna/"
+  url = "/docs/cripto-moderna/"
 
 [[docs]]
   name = "Aplicaciones Web"
   weight = 40
   identifier = "apps-web"
-  url = "/apuntes/docs/apps-web/"
+  url = "/docs/apps-web/"
 
 
 [[docs]]
   name = "Análisis Forense"
   weight = 50
   identifier = "forense"
-  url = "/apuntes/docs/forense/"
+  url = "/docs/forense/"
 
 [[docs]]
   name = "Ingeniería Reversa"
   weight = 60
   identifier = "reversa"
-  url = "/apuntes/docs/reversa/"
+  url = "/docs/reversa/"
 
 [[docs]]
   name = "Pwning"
   weight = 70
   identifier = "pwning"
-  url = "/apuntes/docs/pwning/"
+  url = "/docs/pwning/"
 
 [[docs]]
   name = "OSINT"
   weight = 80
   identifier = "osint"
-  url = "/apuntes/docs/osint/"
+  url = "/docs/osint/"
 
 [[docs]]
   name = "Hardware"
   weight = 90
   identifier = "hardware"
-  url = "/apuntes/docs/hardware/"
+  url = "/docs/hardware/"
 
 [[docs]]
   name = "Anexos"
   weight = 100
   identifier = "anexos"
-  url = "/apuntes/docs/anexos/"
+  url = "/docs/anexos/"
 
 
 [[main]]
   name = "Videos"
-  url = "/apuntes/blog/"
+  url = "/blog/"
   weight = 10
 
 [[main]]
   name = "Apunte"
-  url = "/apuntes/docs/prologo/intro"
+  url = "/docs/prologo/intro"
   weight = 20
 
   [[main]]
   name = "Writeups"
-  url = "/apuntes/writeups/"
+  url = "/writeups/"
   weight = 25
 
   [[main]]
   name = "Evaluaciones"
-  url = "/apuntes/tareas/"
+  url = "/tareas/"
   weight = 27
 
 
 [[main]]
   name = "Acerca"
-  url = "/apuntes/acerca"
+  url = "/acerca"
   weight = 30
 
 [[social]]
