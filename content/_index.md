@@ -1,6 +1,6 @@
 ---
 title : "Apuntes de Francisco Sanhueza Matamala"
-lead: "Sitio con videos y material para el curso."
+lead: "Cosas que me importan"
 date: 2026-03-08T08:47:36+00:00
 draft: false
 images: []
