@@ -1,12 +1,12 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Taller de Hacking Competitivo"
+title = "Apuntes de Francisco Sanhueza Matamala"
 titleSeparator = "-"
-logo = "images/banner.svg"
-logoDark = "images/banner_dark.svg"
-titleAddition = "Introducción al Hacking Competitivo"
-description = "DCC universidad de Chile"
+logo = "images/panchito_transparent.png"
+logoDark = "images/panchito_transparent.png"
+titleAddition = "Cosas que me importan"
+description = "Francisco Sanhueza Matamala"
 
 ## Open Graph + Twitter Cards
 images = ["logo_redondo.png"]
