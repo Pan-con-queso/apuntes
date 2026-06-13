@@ -41,9 +41,9 @@ lqipWidth = "20x"
 footer = "Sitio generado con <a href=\"https://gohugo.io/\">Hugo</a> y <a href=\"https://getdoks.org/\">Doks</a>"
 
 # Alert
-alert = true
+alert = false
 alertText = "CTFs: jueves de 18:00 a 21:00 hrs | Auxiliares: Lunes de 18:15 a 20:00 hrs"
 
 # Edit Page
-docsRepo = "https://github.com/cc5325/apunte"
+docsRepo = "https://github.com/Pan-con-queso/apuntes"
 editPage = true

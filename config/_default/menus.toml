@@ -61,25 +61,9 @@
 
 
 [[main]]
-  name = "Videos"
-  url = "/blog/"
-  weight = 10
-
-[[main]]
   name = "Apunte"
   url = "/docs/prologo/intro"
   weight = 20
-
-  [[main]]
-  name = "Writeups"
-  url = "/writeups/"
-  weight = 25
-
-  [[main]]
-  name = "Evaluaciones"
-  url = "/tareas/"
-  weight = 27
-
 
 [[main]]
   name = "Acerca"
