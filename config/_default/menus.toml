@@ -2,67 +2,18 @@
   name = "Prólogo"
   weight = 10
   identifier = "prologo"
-  url = "/docs/prologo/"
-
-[[docs]]
-  name = "Esteganografía"
-  weight = 20
-  identifier = "stego"
-  url = "/docs/stego/"
-
-[[docs]]
-  name = "Criptografía Moderna"
-  weight = 30
-  identifier = "cripto-moderna"
-  url = "/docs/cripto-moderna/"
-
-[[docs]]
-  name = "Aplicaciones Web"
-  weight = 40
-  identifier = "apps-web"
-  url = "/docs/apps-web/"
-
-
-[[docs]]
-  name = "Análisis Forense"
-  weight = 50
-  identifier = "forense"
-  url = "/docs/forense/"
-
-[[docs]]
-  name = "Ingeniería Reversa"
-  weight = 60
-  identifier = "reversa"
-  url = "/docs/reversa/"
-
-[[docs]]
-  name = "Pwning"
-  weight = 70
-  identifier = "pwning"
-  url = "/docs/pwning/"
-
-[[docs]]
-  name = "OSINT"
-  weight = 80
-  identifier = "osint"
-  url = "/docs/osint/"
-
-[[docs]]
-  name = "Hardware"
-  weight = 90
-  identifier = "hardware"
-  url = "/docs/hardware/"
+  url = "/nahuatl/prologo/"
 
 [[docs]]
   name = "Anexos"
   weight = 100
   identifier = "anexos"
-  url = "/docs/anexos/"
+  url = "/nahuatl/anexos/"
 
 
 [[main]]
-  name = "Apunte"
-  url = "/docs/prologo/intro"
+  name = "Nahuatl"
+  url = "/nahuatl/prologo/intro"
   weight = 20
 
 [[main]]
