@@ -12,8 +12,6 @@ description = "Francisco Sanhueza Matamala"
 images = ["logo_redondo.png"]
 twitterSite = "dccuchile"
 twitterCreator = "dccuchile"
-facebookAuthor = "DCCUChile"
-facebookPublisher = "DCCUChile"
 ogLocale = "es_CL"
 
 ## JSON-LD
