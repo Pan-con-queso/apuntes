@@ -32,8 +32,14 @@ jobs:
 
       - run: hugo --gc --minify
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Publish to Webspace
+        uses: wangyucode/sftp-upload-action@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USER }}
+          password: ${{ secrets.KEY }}
+          dryRun: false
+          forceUpload: true
+          localDir: './public/'
+          remoteDir: ${{ secrets.WEBSPACE_PATH }}
+
