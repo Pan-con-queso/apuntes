@@ -37,6 +37,7 @@ lqipWidth = "20x"
 
 # Footer
 footer = "Sitio generado con <a href=\"https://gohugo.io/\">Hugo</a> y <a href=\"https://getdoks.org/\">Doks</a>"
+footer2 = "<a href=\"https://francisco.sanhueza.net/\">Página web principal</a>"
 
 # Alert
 alert = false
