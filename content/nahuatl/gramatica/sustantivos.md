@@ -59,7 +59,7 @@ Existen dos formas
 * Cuando la raíz de la palabra termina en vocal, se usa el sufijo **-meh** (muy raramente **-h**)
 * Cuando la raíz de la palabra termina en consonante, se usa el sufijo **-tin**
 
-## Forma relacional de los sustantivos
+## Forma relacional
 
 La forma relacional de los sustantivos permite relacionar dos entidades referenciables. Es decir, hay 1 sustantivo y un elemento poseedor
 
@@ -169,3 +169,4 @@ Refiere a cosas desgastadas. En persona es algo muy feo
 
 * Kalsolle (Recinto abandonado/maltrecho)
 
+## Formas derivadas de sustantivos

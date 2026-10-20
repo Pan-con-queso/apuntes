@@ -7,7 +7,7 @@ images: []
 menu:
   docs:
     parent: "gramatica"
-weight: 102
+weight: 104
 ---
 
 ## Números del uno al diez
