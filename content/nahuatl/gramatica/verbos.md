@@ -47,8 +47,14 @@ La tabla de Objetos es
 |mitsin|les|
 |kin|los/las|
 
+**Ojo:** La marca de plurar en verbos suele ser -h
+
 **Ejemplo**:
 * De tlasohtla (amor) se derivan: nimitstlasohtla (yo te amo/quiero), tinichtlasohtla, niktlasohtla, timitstlasohtla, etc.
+* De kaki (escuchar):
+  * Tikkake
+  * Timitskakih
+  * Nikkaki
 
 ## Formas derivadas de sustantivos
 
@@ -71,4 +77,17 @@ La tabla de Objetos es
   * Tlakwalis (evento donde se come)
 * De la raíz **choka** (llorar)
   * Chokilis (evento de llorar)
-  * Chkis (el proceso de llorar)
+  * Chokis (el proceso de llorar)
+
+### Agentivos
+
+Refieren a un agente que realiza una acción de manera habitual
+
+[SUJ - **<span style="color:red">[RV.AGEN]</span>** - NUM]
+
+|Agentivo| Uso|
+|------|-------|
+|-ne<sub>#</sub>/-ni| Caracter eventual. Funciona como sustantivo <br> Trabaja con forma larga de RV|
+|-ke<sub>#</sub>/-ki | Caracter permanente. Funciona más como adjetivo. <br> Trabaja con forma corta de RV|
+|-h| Forma poco usual|
+|-ka| Forma nexo <br> Puede componer con otras raíces <br> Agentivo flexiona o posee (forma relacional)|
