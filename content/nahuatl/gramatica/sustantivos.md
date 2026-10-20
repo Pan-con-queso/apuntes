@@ -169,4 +169,3 @@ Refiere a cosas desgastadas. En persona es algo muy feo
 
 * Kalsolle (Recinto abandonado/maltrecho)
 
-## Formas derivadas de sustantivos

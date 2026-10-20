@@ -50,3 +50,25 @@ La tabla de Objetos es
 **Ejemplo**:
 * De tlasohtla (amor) se derivan: nimitstlasohtla (yo te amo/quiero), tinichtlasohtla, niktlasohtla, timitstlasohtla, etc.
 
+## Formas derivadas de sustantivos
+
+### Nominalizadores
+
+[SUJ - RN - NUM] --> [RV. NMLZ]
+
+|Nominalizador| Uso|
+|------|-------|
+|ll| Refiere a cosas concretas o tangibles|
+|lis |Refiere a eventos sociales|
+|s| Reviese a procesos|
+
+**Ojo:** Ningún verbo admite las tres formas nominalizadoras
+
+**Ejemplo:**
+
+* De la raíz nominal **tlakwa** (comer) se derivan
+  * Tlakwal (Comida-concreto) de donde se derivan Tlakwalle y Tlakwaltin
+  * Tlakwalis (evento donde se come)
+* De la raíz **choka** (llorar)
+  * Chokilis (evento de llorar)
+  * Chkis (el proceso de llorar)
